@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.Trashes
+Library
+obj
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.suo
+*.pdb
+output_log.txt
